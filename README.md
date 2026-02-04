@@ -4,14 +4,14 @@ StayFinder is a web-based application inspired by Airbnb that allows users to ex
 The project focuses on building a real-world style web application with structured data handling and scalable design. User authorization is planned and will be implemented in future versions.
 
 ## 🚀 Features
-🏠 View all hotel/stay listings
-💰 Display prices and listing details
-➕ Add a new listing
-✏️ Edit an existing listing
-❌ Delete a listing
-⭐ Add reviews to listings
-🗂️ Organized listing and review structure
-🌐 Web-based interface
+🏠 View all hotel/stay listings \n
+💰 Display prices and listing details \n
+➕ Add a new listing \n
+✏️ Edit an existing listing \n
+❌ Delete a listing \n
+⭐ Add reviews to listings \n
+🗂️ Organized listing and review structure \n
+🌐 Web-based interface \n
 
 ## 🛠️ Tech Stack
 Frontend: HTML, CSS, JavaScript (EJS if applicable)
